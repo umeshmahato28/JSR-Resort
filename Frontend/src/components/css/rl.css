@@ -1,0 +1,21 @@
+.head{
+    text-align: center;
+    margin-top: 10px;
+    
+    color: burlywood;
+}
+.card{
+    background-color: bisque;
+    font-weight: 600;
+}
+.card-body >h3{
+    font-weight: 700;
+}
+.card-imgg{
+    height:  400px;
+    
+    border-radius: 15px;
+    padding: 10px;
+    
+}
+

@@ -1,0 +1,133 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Sans-serif&display=swap');
+
+
+#Home{
+ background-color:#F5CCA0;
+}
+
+#Header{
+    border-radius: 5px;
+    background: url('https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    width: 100%;
+    box-shadow: 5px 5px 10px 5px #232220;
+}
+.Header .row{
+    
+    text-shadow: 10px 2px #000000;
+
+}
+#header-img img{
+    
+    width: 100%;
+    height: 100%;
+    border-radius: 10%;
+}
+#header-nav-item1,#header-nav-item2,
+#header-nav-item3,#header-nav-item4{
+    color: #F5E8B7;
+    font-size: 18px;
+    font-style: normal;
+    padding-right: 1px;
+    margin-left: 2%;
+}
+#header-nav-item1:hover,#header-nav-item2:hover,#header-nav-item3:hover,#header-nav-item4:hover{
+
+    color: #000000;
+    transform:scale(.9);
+    transition: 1s;
+
+}
+
+#french_cafe{
+    width: 100%;
+    height: 400px;
+    color: white;
+    align-items: center;
+    font-size: 24px;
+    font-family:'Sans-serif';
+}
+
+#french_cafe h1{
+    font-size: 74px;
+    font-family:'Sans-serif';
+}
+
+#french_cafe h4{
+    font-size: 28px;
+    text-decoration: overline;
+    font-family: 'Sans-serif';
+}
+
+#search{
+    width: 80%;
+    height: 50px;
+    border-radius: 8px;
+    border: none;
+}
+
+#search1{
+    /* background-color: ; */
+    height: 45px;
+    margin-left: 5px;
+    border: none;
+}
+
+.tags-container{
+    font-size: 28px;  
+}
+
+.tags-list{
+    display: flex;
+    flex-direction: column;
+}
+
+#submit{
+    background-color: black;
+    color: white;
+    height: 45px;
+    margin-left: 5px;
+    border: none;
+}
+
+.headermain{
+    margin-left: 80%;
+    text-align: right ;
+}
+
+#nun{
+    margin-left: 8%;
+}
+#results1{
+    color: rgb(196, 131, 3);
+    font-weight: 600;   
+}
+
+#pp{
+    text-align: center;
+}
+.homevid{
+    margin-left: 50%;
+}
+.homevidtext{
+    display: flex;
+    margin-right: 50%;
+}
+.homevidtext2{
+    margin-left: 50%;
+}
+
+.cards{
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    /* height: 200px; */
+}
+
+.d-block{
+    height: 70%;
+}
+
+.cardtop{
+    border-radius: 50px;
+}

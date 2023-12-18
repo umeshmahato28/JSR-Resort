@@ -1,0 +1,25 @@
+#tiramisu{
+    width: 90%;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    border: 2px solid rgb(218, 218, 224);
+    border-radius: 28px;
+    color: black;
+}
+
+#tiramisu img{
+    width: 100%;
+    height: 98%;
+    margin-top: 5px;
+   
+    border-radius: 30px;
+}
+
+#tiramisu_body{
+    width: 90%;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    border: 2px solid rgb(218, 218, 224);
+    border-radius: 28px;
+    color: black;  
+}

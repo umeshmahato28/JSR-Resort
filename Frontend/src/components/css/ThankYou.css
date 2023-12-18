@@ -1,0 +1,46 @@
+
+.thank_you{
+    text-align: center;
+    padding: 10px 0;
+}
+
+.thank_you span i {
+    font-size: 4rem;
+    color    : black;
+ }
+ 
+.thank_you h1 {
+    font-size: 2.5rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color: white;
+    text-shadow:  
+    0 0 20px rgb(0, 132, 255),
+    0 0 30px rgb(0, 132, 255),
+    0 0 40px rgb(0, 132, 255),
+    0 0 50px rgb(0, 132, 255),
+    0 0 60px rgb(0, 132, 255),
+    0 0 70px rgb(0, 132, 255),
+    0 0 80px rgb(0, 132, 255);
+
+
+ }
+
+.thank_you button{
+    background-color: rgb(0, 132, 255);
+}
+
+.thank_you button:hover{
+    background-color: rgb(0, 132, 255);
+    transform: scale(1.3);
+    transition: 0.5s;
+}
+
+.thank_you .Back{
+    color: white;
+    text-decoration: none;
+}
+
+.thank_you .Back:hover{
+    color: white;
+}

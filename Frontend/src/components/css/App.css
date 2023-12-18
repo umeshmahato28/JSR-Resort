@@ -1,0 +1,27 @@
+.App {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+  }
+  
+  .header {
+    background-color: #000000;
+    color: white;
+    padding: 20px;
+  }
+  
+  .header h1 {
+    margin: 0;
+  }
+  
+  .main-content {
+    padding: 20px;
+  }
+  
+  .footer {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+  }

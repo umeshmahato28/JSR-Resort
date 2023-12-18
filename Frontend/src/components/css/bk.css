@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Poppins&family=Rubik&family=Vina+Sans&display=swap');
+
+.home{
+    width: 100%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+.smalltext{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+    mix-blend-mode: hard-light;
+    color: white;
+    text-align: center;
+    font-family:'Poppins' sans-serif;
+}
+video{
+    height: 1%;
+    width: 100%;
+}
+.Book{
+    margin: 0 35%;
+}
+
+.icon{
+    color:antiquewhite;
+}
+.hehe{
+    size: 150%;
+    background-color:azure;
+}
+/* 
+.carousel{
+    padding: 20px;
+    width: 80%;
+    
+
+} */

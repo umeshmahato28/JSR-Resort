@@ -1,0 +1,52 @@
+.about-page h2 {
+    text-transform: none;
+    font-weight: bold;
+  }
+  .about-page {
+    display: grid;
+    gap: 2rem 4rem;
+    padding-bottom: 3rem;
+  }
+  .about-img {
+    border-radius: var(--borderRadius);
+    height: 300px;
+  }
+  
+  @media screen and (min-width: 992px) {
+    .about-page {
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: 400px;
+      align-items: center;
+    }
+    .about-img {
+      height: 100%;
+    }
+  }
+  
+  .featured-title {
+    text-align: center;
+  }
+  .recipe{
+    width: 100%;
+    height: 110%;
+  }
+  .review{
+    background-color: #000; 
+    color: #fff;
+    border-radius: 6px;
+  }
+
+  .review2{
+      background-color: #FBF6EE;
+      border-radius: 10px;
+      padding: 10px;
+      margin-top: 10px;
+      font-style: italic;
+      border-style: inset;
+      box-shadow: inset -2px -1px 50px #5242424f;
+  }
+ 
+  .review2 .guestname{
+    font-weight: bold;
+    font-style: normal;
+  }
