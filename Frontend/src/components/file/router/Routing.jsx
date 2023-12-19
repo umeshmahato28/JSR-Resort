@@ -25,7 +25,6 @@ const Routing = () => {
       <Route exact path='/login' element={<Login/>}></Route>
       <Route exact path='/register' element={<Register/>}></Route>
       <Route exact path='/thank-you' element={<ThankYou/>}></Route>
-
       <Route exact path='/tiramisu' element={<Tiramisu/>}></Route>
       <Route exact path='/frozen_blue' element={<Frozen_blue/>}></Route>
       <Route exact path='/biryani' element={<Biryani/>}></Route>

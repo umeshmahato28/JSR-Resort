@@ -74,7 +74,10 @@ const Home = () => {
 
                 <div class="col-6 p-2">
                         <div class="card p-3">
-                        <video src={video1} muted autoPlay loop type="video/mp4"></video>
+                        
+                        <video className='video' src={video1} muted autoPlay loop type="video/mp4"></video>
+                       
+                       
                         <div class="card-body">
                             <h5><b>RECEPTION </b></h5>
                         </div>

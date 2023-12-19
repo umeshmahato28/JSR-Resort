@@ -123,7 +123,9 @@
     flex-wrap: wrap;
     /* height: 200px; */
 }
-
+/* .video{
+    border-radius: 7px;
+} */
 .d-block{
     height: 70%;
 }

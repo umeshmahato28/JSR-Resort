@@ -28,7 +28,7 @@ const Contact = () => {
          return alert('Please Sign in')
       }
 
-      const res = await fetch(`${BASE_URL}/booking`, {
+      const res = await fetch(`${BASE_URL}/contact`, {
          method: 'post',
          headers: {
             'content-type': 'application/json'
@@ -45,7 +45,7 @@ const Contact = () => {
       navigate('/thank-you')
    } catch (error) {
       alert(error.message)
-   } 
+   }   
 }
   return (
     <div>
