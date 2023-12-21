@@ -1,13 +1,11 @@
 import React from 'react'
 
-
-
-const Frozen_blue = () => {
+const Premium = () => {
   return (
     <div>
     <div className='container-fluid'>
 
-        <div className='container-fluid' id='tiramisu'>
+        <div className='container-fluid' id='deluxe'>
                 <div className='row'>
                     <div className='col-7' >
                         <img src="https://images.pexels.com/photos/3316923/pexels-photo-3316923.jpeg?auto=compress&cs=tinysrgb&w=600" alt=''></img>
@@ -50,4 +48,4 @@ const Frozen_blue = () => {
   )
 }
 
-export default Frozen_blue
+export default Premium

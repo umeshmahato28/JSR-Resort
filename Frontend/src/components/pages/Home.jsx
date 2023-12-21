@@ -259,7 +259,7 @@ const Home = () => {
             <div className="col-12">
               <div className="container-fluid">
                 <div className="row">
-                <NavLink to="./tiramisu" className="col-3 p-2">
+                <NavLink to="./premium" className="col-3 p-2">
                   <div >
                     <div class="card">
                       
@@ -277,7 +277,7 @@ const Home = () => {
                     </div>
                   </div>
                     </NavLink>
-                  <NavLink to="./frozen_blue" className="col-3 p-2">
+                  <NavLink to="./premium" className="col-3 p-2">
                     <div>
                       <div class="card">
                         <img
@@ -293,7 +293,7 @@ const Home = () => {
                       </div>
                     </div>
                   </NavLink>
-                  <NavLink to="./biryani" className="col-3 p-2">
+                  <NavLink to="./classic" className="col-3 p-2">
                     <div>
                       <div class="card">
                         <img
@@ -310,7 +310,7 @@ const Home = () => {
                       </div>
                     </div>
                   </NavLink>
-                <NavLink to="./fam" className="col-3 p-2">
+                <NavLink to="./dualbed" className="col-3 p-2">
                   <div >
                     <div class="card">
                         

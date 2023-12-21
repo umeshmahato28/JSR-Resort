@@ -33,9 +33,9 @@ const Header = () => {
                 <div class="nav-links float-right headermain">
                     <NavLink to="/" class="nav-link" id='header-nav-item1'><i class="fas fa-home"></i> Home </NavLink>
                     <NavLink to="./about" class="nav-link" id='header-nav-item2'><i class="fas fa-eye"></i> About </NavLink>
-                    <NavLink to="./rl" class="nav-link" id='header-nav-item3'><i class="fas fa-person-booth"></i> Rooms</NavLink>
+                    <NavLink to="./rooms" class="nav-link" id='header-nav-item3'><i class="fas fa-person-booth"></i> Rooms</NavLink>
                     <NavLink to="./contact" class="nav-link" id='header-nav-item4'><i class="fas fa-paper-plane"></i> Contact </NavLink>
-                    <NavLink to="./bk" class="nav-link" id='header-nav-item4'> Book Now </NavLink>
+                    <NavLink to="./booknow" class="nav-link" id='header-nav-item4'> Book Now </NavLink>
                     
                 </div>
             </div>

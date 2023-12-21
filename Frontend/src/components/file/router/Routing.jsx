@@ -5,14 +5,13 @@ import Contact from '../../pages/Contact'
 import Login from '../../pages/Login'
 import Register from '../../pages/Register'
 import ThankYou from '../../pages/ThankYou'
-import Tiramisu from '../../pages/Tiramisu'
-import Biryani from '../../pages/Biryani'
-import Fam from '../../pages/Fam'
-import Rl from '../../pages/Rl'
-import Room from '../../pages/Room'
-import Bk from '../../pages/Bk'
+import Classic from '../../pages/Classic'
 import { Route, Routes} from 'react-router-dom'
-import Frozen_blue from '../../pages/Frozen_blue'
+import Deluxe from '../../pages/Deluxe'
+import Premium from '../../pages/Premium'
+import Dualbed from '../../pages/Dualbed'
+import Rooms from '../../pages/Rooms'
+import Booknow from '../../pages/Booknow'
 
 
 const Routing = () => {
@@ -25,13 +24,12 @@ const Routing = () => {
       <Route exact path='/login' element={<Login/>}></Route>
       <Route exact path='/register' element={<Register/>}></Route>
       <Route exact path='/thank-you' element={<ThankYou/>}></Route>
-      <Route exact path='/tiramisu' element={<Tiramisu/>}></Route>
-      <Route exact path='/frozen_blue' element={<Frozen_blue/>}></Route>
-      <Route exact path='/biryani' element={<Biryani/>}></Route>
-      <Route exact path='/fam' element={<Fam/>}></Route>
-      <Route exact path='/rl' element={<Rl/>}></Route>
-      <Route exact path='/room' element={<Room/>}></Route>
-      <Route exact path='/bk' element={<Bk/>}></Route>
+      <Route exact path='/deluxe' element={<Deluxe/>}></Route>
+      <Route exact path='/premium' element={<Premium/>}></Route>
+      <Route exact path='/classic' element={<Classic/>}></Route>
+      <Route exact path='/dualbed' element={<Dualbed/>}></Route>
+      <Route exact path='/rooms' element={<Rooms/>}></Route>
+      <Route exact path='/booknow' element={<Booknow/>}></Route>
     </Routes>
   )
 }

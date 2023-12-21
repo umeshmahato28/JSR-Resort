@@ -1,13 +1,13 @@
 import React from 'react'
 
 
-const biryani = () => {
+const Classic = () => {
   return (
     <div>
          <div className='container-fluid'>
 
 
-<div className='container-fluid' id='tiramisu'>
+<div className='container-fluid' id='deluxe'>
     <div className='row'>
         <div className='col-7' >
             <img src="https://www.tajhotels.com/content/dam/luxury/hotels/St_James_Court_London/images/3x2/Classic_Room-Bedroom.jpg/jcr:content/renditions/cq5dam.web.756.756.jpeg" alt=''></img>
@@ -50,4 +50,4 @@ const biryani = () => {
   )
 }
 
-export default biryani
+export default Classic

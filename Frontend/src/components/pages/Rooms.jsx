@@ -1,9 +1,9 @@
 
 import React from 'react'
-import '../css/rl.css'
+import '../css/Rooms.css'
 import 'bootstrap/dist/css/bootstrap.min.css'
 
-const Rl = () => {
+const Rooms = () => {
   return (
     <div>
         <div className='container-fluid'>       
@@ -24,7 +24,7 @@ const Rl = () => {
                                     <h3>Classic Room</h3>
                                     <p>Step into a world of unparalleled luxury and comfort in this room with jungle views, butler service......</p>
 
-                                    <a class="btn" href="./biryani" role="button"> Read More</a>
+                                    <a class="btn" href="./classic" role="button"> Read More</a>
 
                                 </div>
                         </div>
@@ -38,7 +38,7 @@ const Rl = () => {
                                 <div class="card-body">
                                     <h3> Deluxe Room</h3>
                                     <p> Our deluxe rooms are modern decorated, can accommodate up to 2 persons, totally soundproofed and equipped with high tech comforts ....</p>
-                                    <a class="btn" href="./tiramisu" role="button"> Read More</a>
+                                    <a class="btn" href="./deluxe" role="button"> Read More</a>
                                 </div>
                         </div>
                     </div>
@@ -58,7 +58,7 @@ const Rl = () => {
                                 <div class="card-body">
                                     <h3>Premium Room</h3>
                                     <p> The large, spacious and well-furnished premium room with no view. On entering Denzong Shangrila, you will immediately sense its special intimate atmosphere...</p>
-                                    <a class="btn" href="./frozen_blue" role="button"> Read More</a>
+                                    <a class="btn" href="./premium" role="button"> Read More</a>
                                 </div>
                         </div>
                     </div>
@@ -70,7 +70,7 @@ const Rl = () => {
                                 <div class="card-body">
                                     <h3>Dual Bed Room</h3>
                                     <p>  Airy and spacious, Quad rooms are designed for four, or two couples, making them an ideal base for exploring nature with loved ones........ </p>
-                                    <a class="btn" href="./fam" role="button"> Read More</a>
+                                    <a class="btn" href="./dualbed" role="button"> Read More</a>
                                 </div>
                         </div>
                     </div>
@@ -87,4 +87,4 @@ const Rl = () => {
   )
 }
 
-export default Rl
+export default Rooms

@@ -1,12 +1,12 @@
 import React from 'react'
 
 
-const fam = () => {
+const Dualbed = () => {
   return (
     <div>
          <div className='container-fluid'>
 
-<div className='container-fluid' id='tiramisu'>
+<div className='container-fluid' id='deluxe'>
     <div className='row'>
         <div className='col-7' >
             <img src="https://www.tajhotels.com/content/dam/luxury/hotels/St_James_Court_London/images/3x2/R&S_67704419-H1-St._James'_Court,_A_Taj_Hotel_Executive_Family_Room-3x2.jpg/jcr:content/renditions/cq5dam.web.756.756.jpeg" alt=''></img>
@@ -49,4 +49,4 @@ const fam = () => {
   )
 }
 
-export default fam
+export default Dualbed

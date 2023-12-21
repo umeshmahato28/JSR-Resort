@@ -1,10 +1,10 @@
 import React from 'react'
 import vid from '../Image/vid.mp4'
-import '../css/bk.css'
+import '../css/Booknow.css'
 import Booking from '../Booking/Booking'
 
 
-const Bk = () => {
+const Booknow = () => {
   return (
     <div>
     <div className='container-fluid'>
@@ -30,4 +30,4 @@ const Bk = () => {
   )
 }
 
-export default Bk
+export default Booknow

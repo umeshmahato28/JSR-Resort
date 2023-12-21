@@ -1,16 +1,16 @@
 import React from 'react'
-import '../css/Tiramisu.css'
+import '../css/Deluxe.css'
 
 
-// import tiramisu from '../Image/room2.jpg'
 
-const Tiramisu = () => {
+
+const Deluxe = () => {
   return (
     <div>
         <div className='container-fluid'>
 
 
-            <div className='container-fluid' id='tiramisu'>
+            <div className='container-fluid' id='deluxe'>
                 <div className='row'>
                     <div className='col-7' >
                         <img src="https://images.pexels.com/photos/237371/pexels-photo-237371.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt=''></img>
@@ -56,4 +56,4 @@ const Tiramisu = () => {
   )
 }
 
-export default Tiramisu
+export default Deluxe
