@@ -17,7 +17,7 @@ const Footer = () => {
     <div class="page-footer text-center bg-dark">
        <i className="fab fa-instagram"></i> 
           <i className="fab fa-github"></i>
-          <h5>© 2023 Copyright: JSR Resort</h5>
+          <h5>© 2025 Copyright: JSR Resort</h5>
           <i className="fab fa-linkedin-in"></i>
           <i className="fab fa-facebook-f"></i>
          

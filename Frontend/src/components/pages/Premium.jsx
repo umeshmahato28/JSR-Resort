@@ -8,7 +8,7 @@ const Premium = () => {
         <div className='container-fluid' id='deluxe'>
                 <div className='row'>
                     <div className='col-7' >
-                        <img src="https://images.pexels.com/photos/3316923/pexels-photo-3316923.jpeg?auto=compress&cs=tinysrgb&w=600" alt=''></img>
+                        <img src="https://images.pexels.com/photos/376531/pexels-photo-376531.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt=''></img>
                     </div>
 
                     <div className='col-5'>
@@ -36,7 +36,7 @@ const Premium = () => {
                         </div>
                         
                         </article>
-                        <a class="btn" href="Bk" role="button">Book Now</a>
+                        <a class="btn" href="booknow" role="button">Book Now</a>
                     </div>
                 </div>
             </div>

@@ -10,7 +10,7 @@ const Classic = () => {
 <div className='container-fluid' id='deluxe'>
     <div className='row'>
         <div className='col-7' >
-            <img src="https://www.tajhotels.com/content/dam/luxury/hotels/St_James_Court_London/images/3x2/Classic_Room-Bedroom.jpg/jcr:content/renditions/cq5dam.web.756.756.jpeg" alt=''></img>
+            <img src="https://www.theclassichotel.in/wp-content/uploads/2021/08/Presidential-Suite.jpg" alt=''></img>
         </div>
 
         <div className='col-5'>
@@ -38,7 +38,7 @@ const Classic = () => {
             </div>
 
             </article>
-          <a class="btn" href="Bk" role="button">Book Now</a>
+          <a class="btn" href="booknow" role="button">Book Now</a>
         </div>
     </div>
 </div>

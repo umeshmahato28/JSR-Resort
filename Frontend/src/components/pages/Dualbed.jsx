@@ -9,7 +9,7 @@ const Dualbed = () => {
 <div className='container-fluid' id='deluxe'>
     <div className='row'>
         <div className='col-7' >
-            <img src="https://www.tajhotels.com/content/dam/luxury/hotels/St_James_Court_London/images/3x2/R&S_67704419-H1-St._James'_Court,_A_Taj_Hotel_Executive_Family_Room-3x2.jpg/jcr:content/renditions/cq5dam.web.756.756.jpeg" alt=''></img>
+            <img src="https://djmzubtjl6upi.cloudfront.net/wp-content/uploads/sites/3/2017/12/Deluxe-Double-Guestroom2.jpg" alt=''></img>
         </div>
 
         <div className='col-5'>
@@ -37,7 +37,7 @@ const Dualbed = () => {
             </div>
 
             </article>
-          <a class="btn" href="Bk" role="button">Book Now</a>
+          <a class="btn" href="booknow" role="button">Book Now</a>
         </div>
     </div>
 </div>

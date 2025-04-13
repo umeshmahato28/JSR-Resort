@@ -281,7 +281,7 @@ const Home = () => {
                     <div>
                       <div class="card">
                         <img
-                          src="https://images.pexels.com/photos/3316923/pexels-photo-3316923.jpeg?auto=compress&cs=tinysrgb&w=600"
+                          src="https://images.pexels.com/photos/376531/pexels-photo-376531.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                           alt="card"
                           class="card-img"
                           height="200px"
@@ -297,7 +297,7 @@ const Home = () => {
                     <div>
                       <div class="card">
                         <img
-                          src="https://www.tajhotels.com/content/dam/luxury/hotels/St_James_Court_London/images/3x2/Classic_Room-Bedroom.jpg/jcr:content/renditions/cq5dam.web.756.756.jpeg"
+                          src="https://www.theclassichotel.in/wp-content/uploads/2021/08/Presidential-Suite.jpg"
                           alt="card"
                           class="card-img"
                           height="200px"
@@ -315,7 +315,7 @@ const Home = () => {
                     <div class="card">
                         
                         <img
-                          src="https://www.tajhotels.com/content/dam/luxury/hotels/St_James_Court_London/images/3x2/R&S_67704419-H1-St._James'_Court,_A_Taj_Hotel_Executive_Family_Room-3x2.jpg/jcr:content/renditions/cq5dam.web.756.756.jpeg"
+                          src="https://djmzubtjl6upi.cloudfront.net/wp-content/uploads/sites/3/2017/12/Deluxe-Double-Guestroom2.jpg"
                           alt="card"
                           class="card-img"
                           height="200px"
